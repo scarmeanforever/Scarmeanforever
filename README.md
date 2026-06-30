@@ -14,7 +14,7 @@ ${\textsf{\color{#B52D2D} Eternal. }}$⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ${\texts
 
 ${\textsf{\color{#B52D2D} 𝖖𝖚𝖎𝖈𝖐 𝖎𝖓𝖋𝖔𝖗𝖒𝖆𝖙𝖎𝖔𝖓: }}$ I only play/use this game and GitHub because my wife wants me to. Everything about the skins and GitHub information is created by my wife based on what he knows about me.
 
-I don't like sharing too much of my social media information; if you need anything, ${\textsf{\color{#FF0000} please contact @Forgetablething }}$.
+I don't like sharing too much of my social media information; if you need anything, ${\textsf{\color{#FF0000}please contact @Forgetablething }}$.
 
 <img width="734" height="111" alt="image" src="https://github.com/user-attachments/assets/e706f241-d303-43ea-a4c4-92b6fcfcac9c" />
 
